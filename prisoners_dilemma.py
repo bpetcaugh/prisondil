@@ -2,6 +2,7 @@ from __future__ import print_function
 
 #Name: Mr. Petcaugh (pretending to be a student)
 #Date: February 2nd, 2016
+#I'm having fun.
 
 ''' 
 PrisonerDilemma.py allows hard-coding different strategies
