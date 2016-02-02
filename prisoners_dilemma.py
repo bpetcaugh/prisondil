@@ -1,5 +1,8 @@
 from __future__ import print_function
 
+#Name: Mr. Petcaugh (pretending to be a student)
+#Date: February 2nd, 2016
+
 ''' 
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
